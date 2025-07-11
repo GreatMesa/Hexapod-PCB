@@ -4,7 +4,9 @@ author: "Chinedu Okpala"
 description: "4-Layer PCB for Robotic hexapod"
 created_at: "2025-6-26"
 ---
-# 4-Layer Hexapod PCB
+# 4-Layer Hexapod PCB.
+
+##Total Hours: 21
 
 ## Reaserch 6/26/2025 3 Hours
 
