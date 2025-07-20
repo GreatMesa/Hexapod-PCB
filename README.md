@@ -13,7 +13,7 @@ Here are the main goals of this PCB:
 - Have indication for the hexapod status using LEDs and a Buzzer.
 ## PCB 3D Model
 
-<img width="1733" height="1263" alt="Screenshot 2025-07-20 022503" src="https://github.com/user-attachments/assets/3d8c5380-46e8-4ae6-9255-cd451b94bc75" />
+<img width="1627" height="1332" alt="Screenshot 2025-07-20 023243" src="https://github.com/user-attachments/assets/285937ea-8464-4e82-a02a-2eedc462da8a" />
 
 ## PCB Picture
 
