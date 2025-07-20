@@ -5326,7 +5326,7 @@
 	)
 	(text_box "Power Supply"
 		(exclude_from_sim no)
-		(at 158.75 83.82 0)
+		(at 358.14 137.16 0)
 		(size 124.46 60.96)
 		(stroke
 			(width 0)

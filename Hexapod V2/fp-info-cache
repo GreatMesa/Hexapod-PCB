@@ -1,4 +1,4 @@
-24522843176980567
+24536870414782781
 Arduino Library
 Arduino_101_Shield
 https://docs.arduino.cc/retired/boards/arduino-101-619
@@ -223,6 +223,20 @@ https://docs.arduino.cc/hardware/zero
 0
 38
 38
+Arduino Library
+Buck
+
+
+0
+4
+4
+Arduino Library
+Buck Converter 5V MP1584EN
+
+
+0
+4
+4
 Arduino Library
 Clone_Mega2560_Pro_Socket
 https://docs.arduino.cc/hardware/mega-2560
@@ -65820,6 +65834,13 @@ Yellow 5381 Series LED
 0
 2
 2
+Logic Shifters
+SOIC127P600X175-14N
+
+
+0
+14
+14
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -98846,6 +98867,48 @@ Varistor VF
 0
 2
 2
+teensy
+Teensy41
+
+
+0
+67
+67
+teensy
+nRF24L01_Breakout
+nRF24L01 breakout board
+nRF24L01 adapter breakout
+0
+8
+8
+usini_sensors
+5V Buck
+
+
+0
+8
+8
+usini_sensors
+128x64OLED
+
+
+0
+4
+4
+usini_sensors
+Buck Converter 5V MP1584EN
+
+
+0
+4
+4
+usini_sensors
+MODULE_DEV-16771
+
+
+0
+65
+65
 usini_sensors
 YAAJ_DCDC_StepDown_LM2596
 
@@ -99028,10 +99091,3 @@ module_tsl2561
 0
 5
 5
-usini_sensors
-module_vl53l0x
-
-
-0
-6
-6

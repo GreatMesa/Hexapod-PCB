@@ -485,11 +485,11 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "../../../../../../../Program Files/KiCad/8.0/",
+      "netlist": "",
       "plot": "Gerber/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Hexapod V2.step",
       "svg": "",
       "vrml": ""
     },
