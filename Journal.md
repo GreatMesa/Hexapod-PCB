@@ -54,7 +54,7 @@ Finally, probably the most important part is the power supply. The main thing th
 
 ![Screenshot 2025-07-09 020600](https://github.com/user-attachments/assets/8de32bee-3478-4e55-b007-b14bab794277)
 
-PCB Routing / Editing 6/29/25 - 7/7/2025 15 Hours
+## PCB Routing / Editing 6/29/25 - 7/7/2025 15 Hours
 
 Something to note into how this part took so so long is that it went through multiple variations. The first thing I needed to do was to position all the components in a way that I could route them. This was the arrangemnt that I came up with:
 
@@ -63,3 +63,20 @@ Something to note into how this part took so so long is that it went through mul
 Nex was the actual routing part of this PCB. But as I was thinking about the circuit I realized something: the arduino & the servos needed a different power supply. Since my arduino mega pro takes a minimum of 7V while the maximum that the servos should be getting is 6.8V, which I possibly wanted to get lower for higher speed. I decided that I would need to attach a buck converter onto the actual board. However, I was not sure which voltage to use and which speed I wanted. After I finished routing everything, this was my final PCB:
 
 ![Screenshot 2025-07-09 191733](https://github.com/user-attachments/assets/aefc109a-b351-4776-9c53-1621f2ca8f49)
+
+## A Teensy Update 7/16/25 - 7/20/25 10 Hours
+After getting my project rejected twice. I decided that I needed to change the size of the circuit board. I decided to replace the arduino mega pro with the Teensy 4.1 due to is lower size and it being a much better microcontroller. This was a simple fix as all I needed to do was look at the pwm ports on the teensy and see what I needed to swap. This was the teensy schematic I chalked up:
+
+<img width="552" height="783" alt="Screenshot 2025-07-20 032936" src="https://github.com/user-attachments/assets/b7c359a9-160c-4af7-8886-85540c23f8e7" />
+
+Funny thing, since the logic level was lower than the 3.5V (0.7VDD) needed, I needed to use a logic converter. I also added a OLED & 2 buttons so that I can interact with the sensors on board. Besides those fixes and the overall rerouting of the board, there was not any notable changes. This was the final schematic & 3D Model:
+
+### PCB Layout
+
+<img width="1176" height="1188" alt="Screenshot 2025-07-20 022511" src="https://github.com/user-attachments/assets/aa329c04-3c88-4034-b879-03c0419d44f5" />
+
+### PCB 3D Model
+
+<img width="1627" height="1332" alt="Screenshot 2025-07-20 023243" src="https://github.com/user-attachments/assets/cb7300b7-870b-44a2-840a-a3112d05a7e1" />
+
+
