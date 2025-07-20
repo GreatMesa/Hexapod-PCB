@@ -32,3 +32,4 @@ Here are the main goals of this PCB:
 | Logic Shifter            | \$7.49      | 1        | \$7.49            | [Amazon](https://www.amazon.com/HiLetgo-Channels-Converter-Bi-Directional-3-3V-5V/dp/B07F7W91LC)        |
 | 10pc Buzzers             | \$6.99      | 1        | \$6.99            | [Amazon](https://www.amazon.com/mxuteuk-Electronic-Computers-Printers-Components/dp/B07VK1GJ9X)         |
 | OLED Display             | \$14.99     | 1        | \$14.99           | [Amazon](https://www.amazon.com/Hosyond-Display-Self-Luminous-Compatible-Raspberry/dp/B09T6SJBV5)       |
+| ** Total Cost**        |             |          | **\$146.19**      |                                                                                                         |
