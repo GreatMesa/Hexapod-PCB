@@ -6,7 +6,7 @@ created_at: "2025-6-26"
 ---
 # 4-Layer Hexapod PCB.
 
-##Total Hours: 21
+##Total Hours: 36
 
 ## Reaserch 6/26/2025 3 Hours
 
